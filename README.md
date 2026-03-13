@@ -1,6 +1,7 @@
 ## My GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hassaan-Hub&cache_seconds=1)](https://git.io/streak-stats)
+<div align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadasif46&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" /> 
+</div>
 <!--
 **Hassaan-Hub/Hassaan-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
