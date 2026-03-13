@@ -1,7 +1,7 @@
 ## My GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hassaan-Hub&cache_seconds=1)](https://git.io/streak-stats)
-
+<!--
 **Hassaan-Hub/Hassaan-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
