@@ -9,7 +9,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hassaan-Hub&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassaan-Hub&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassaan-Hub&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
 </p>
 
