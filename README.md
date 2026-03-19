@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Hassaan Farid</h1>
+<h1 align="center">Hi 👋 I'm Hassaan Ahmed</h1>
 <h3 align="center">Frontend Developer | Learning JavaScript</h3>
 
 ---
