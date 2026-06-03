@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋 I'm Hassaan Ahmed</h1>
+<h1 align="center">Hi 👋 I'm Muhammad Hassaan</h1>
 <h3 align="center">Frontend Developer | Learning JavaScript</h3>
 
 ---
@@ -23,9 +23,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassaan-Hub&theme=github-dark-blue&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Hassaan-Hub&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
