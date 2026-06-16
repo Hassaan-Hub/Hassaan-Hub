@@ -9,13 +9,13 @@
 
 ## 📊 GitHub Stats
 
-<br/>
-
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassaan-Hub&theme=dark&hide_border=true&show_icons=true&count_private=true" />
-</div>
 
-<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hassaan-Hub&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassaan-Hub&layout=compact&theme=dark&hide_border=true"/>
+
+</div>
 
 ---
 
