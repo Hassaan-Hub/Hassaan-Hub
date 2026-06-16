@@ -7,13 +7,15 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hassaan-Hub&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+<div align="center">
 
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassaan-Hub&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hassaan-Hub&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassaan-Hub&layout=compact&theme=dark&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -24,19 +26,6 @@
 </p>
 
 ---
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HassaanFarid&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassaanFarid&layout=compact&theme=dark&hide_border=true"/>
-
-</div>
-
-
 
 ### 📈 Contribution Graph
 
