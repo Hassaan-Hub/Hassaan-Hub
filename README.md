@@ -40,7 +40,7 @@ A professional maintenance management platform where physical assets get a digit
 
 **Built with:**
 
-`HTML` `CSS` `JavaScript` `Tailwind CSS` `Firebase` `Firestore` `Cloudinary`
+`HTML` `CSS` `JavaScript` `Tailwind CSS` `Firebase` `Firestore`
 
 ---
 
