@@ -8,9 +8,6 @@
   Frontend Developer | JavaScript Developer | Building Modern Web Applications
 </h3>
 
-<div align="center">
-  <img src="https://github.com/Hassaan-Hub/Hassaan-Hub/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
 
 ---
 
