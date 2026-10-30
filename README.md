@@ -20,10 +20,15 @@
 
 <p align="center">
   <a href="https://github.com/Hassaan-Hub">
-    <img src="https://img.shields.io/badge/GitHub-Hassaan--Hub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://hassaan-tau.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://final-hackathon-three-sigma.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-Visit%20Website-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
