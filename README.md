@@ -38,7 +38,7 @@
 
 - 👋 Hi, I'm **Muhammad Hassaan**.
 - 🚀 Frontend Developer passionate about building modern web applications.
-- 💻 Experienced with HTML, CSS, JavaScript, React and Next.js.
+- 💻 Experienced with HTML, CSS, JavaScript, TypeScript, React, Next.js, mongoDB mongoose, REST APIs, Node.js, Express.js, Authentication (JWT, Cookies), CRUD Operations, Git & GitHub, Postman, Vercel, Netlify, firebase-fire Store, tailwind css, cloudinary, imageKit.
 - 🌱 Currently improving my skills in TypeScript and Backend Development.
 - 🔥 Interested in building full-stack applications and solving real-world problems.
 - 🛠️ Working on projects like **WorkBuddy** and **MaintainIQ**.
