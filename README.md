@@ -44,13 +44,18 @@ A professional maintenance management platform where physical assets get a digit
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hassaan-Hub&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+![Hassaan's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hassaan-Hub&theme=github_dark)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassaan-Hub&layout=compact&theme=dark&hide_border=true" />
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hassaan-Hub&theme=github_dark" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hassaan-Hub&theme=github_dark" width="49%" />
 
 </div>
 
