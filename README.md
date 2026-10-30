@@ -28,7 +28,7 @@
   </a>
 
   <a href="https://final-hackathon-three-sigma.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-Visit%20Website-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit%20Website-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
